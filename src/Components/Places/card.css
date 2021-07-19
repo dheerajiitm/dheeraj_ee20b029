@@ -1,0 +1,21 @@
+
+.card-custom{
+    align-items: center;
+    margin: 60px auto;
+    width: 60%;
+    height: fit-content;
+    background-color: rgb(7, 167, 7);
+    color: rgb(240, 14, 14);
+    border: solid blue 2px;
+}
+
+.text-area{
+    padding:20px;
+    background-color: rgb(7,167,7);
+    color: lightblue;
+}
+
+#placetitle {
+    padding-top:20;
+    text-align: center;
+}

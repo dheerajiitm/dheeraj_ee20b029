@@ -1,0 +1,27 @@
+.text{
+    width:100%;
+    background-image: url("https://www.toptravelsights.com/wp-content/uploads/2020/04/Stonehenge-featured.jpg");
+    background-size: contain;
+	background-repeat: no-repeat;
+}
+.line1{
+    font-size:60px;
+    color:red;
+    position: absolute;
+    top:5%;
+    right: 2%;
+}
+
+.line2{
+    color: rgb(218, 221, 19);
+    font-size:45px;
+    position:absolute;
+    right:5%;
+    bottom:22%;
+}
+.line3{
+	color:rgb(196, 238, 10);
+	font-size: 20px;
+	position:absolute;
+    bottom:22%;
+}
